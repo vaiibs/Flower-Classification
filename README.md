@@ -4,4 +4,4 @@ This project builds a flower detection website using machine learning techniques
 
 ![image](https://github.com/vaiibs/Flower-Classification/assets/97294116/ecff23e6-f3cf-409d-8b7f-e42ac0b185b3)
 
-![image](https://github.com/vaiibs/Flower-Classification/assets/97294116/54168570-6d17-4e35-b023-c20f56d6a9a2)
+![image](https://github.com/vaiibs/Flower-Classification/assets/97294116/890b4d7d-c34f-45ab-bf53-c10a710f36fe)
